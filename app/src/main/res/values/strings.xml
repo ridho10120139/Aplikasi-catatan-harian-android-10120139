@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DailyNotes10120139</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="nim">NIM: 10120139</string>
+    <string name="nama">Nama: Mochamad Ridho</string>
+    <string name="kelas">Kelas: IF4</string>
+    <string name="email">Email: moch.ridho17@gmail.com</string>
+    <string name="matkul">AKB</string>
+    <string name="txt_welcome">UTS AKB </string>
+    <string name="txt_intro">UNIKOM 2023</string>
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="memo">Tentang Aplikasi</string>
+    <string name="penjelasan"> Aplikasi Catatan Harian ini adalah sebuah aplikasi sederhana
+    yang dibuat untuk memenuhi nilai UTS pada Matkul AKB, aplikasi ini dibuat dengan fitur Splash Screen,
+    Bottom Navigation, ViewPager dengan database SQLite dan menggunakan arsitektur MPV (Model-View-Presenter).</string>
+    <string name="txt_add">Silahkan Tekan Notes pada nav bar dibawah, lalu tekan button + untuk membuat Catatan Baru Anda
+    HAPPY NICE DAY!! ^_^</string>
+    <string name="editCatatan">Edit Catatan</string>
+</resources>
